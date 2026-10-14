@@ -18,6 +18,8 @@ public class StudentProfile {
         System.out.println("Name: Fatin Najwa");
         System.out.println("Student ID: S87580");
         System.out.println("Programme: Bachelor of Computer Science (Cloud Compuing Security) with Honours");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }
